@@ -62,8 +62,7 @@ public class DemoRobot extends javax.swing.JFrame {
         g.setColor(Color.RED);
         g.fillRect(160, 380, 30, 20);
         
-        g.setColor(Color.RED);
-        g.drawLine(240, 130, 5, 5);
+       
         
         
         
